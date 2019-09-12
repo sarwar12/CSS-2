@@ -23,6 +23,7 @@
 
 ### TAGS:
 	link Tag <link/>  (linkup css file)
+	
 ### Selector's:
 	1) Element Selector / Type Selector :
  	    ( EX:  p{} )      p { color:red; }
@@ -46,6 +47,6 @@
     	    ( EX: input[type=text]{} )     input[type=text] { color:red; }
 
 
-
+***
 ## G SARWAR
 ### Web Instructor
