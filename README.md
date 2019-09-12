@@ -3,12 +3,12 @@
 ### CSS Write 3 way:
 
 	3) External CSS : This isn't use HTML edit page. But Its link up HTML page use link tag after title tag.
-		             Its use new page. its extention name (.css)
+	            	  Its use new page. its extention name (.css)
 			<head>
-			<title> </title>
-			<link href="/style.css" rel="stylesheet" type="text/css"/>
+				<title> </title>
+				<link href="/style.css" rel="stylesheet" type="text/css"/>
 			</head>
-			 and create a style page (style.css)
+			 and create a style page (style.css))
 
 ### Property & Value::
 		text-align: left/ right/ center/justify; (4 value this text alignment)
